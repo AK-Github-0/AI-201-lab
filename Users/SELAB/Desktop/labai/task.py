@@ -13,4 +13,4 @@ def encryption(string,shift):
  
     return Encrypted
 
-print(encryption("DEFENDTHEFORT",7))
+print(encryption("AK",1))
